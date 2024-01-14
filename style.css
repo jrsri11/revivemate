@@ -1,0 +1,15 @@
+.signing{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.forms{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#form{
+    width: 50%;
+    display: flex;
+    padding: 2.5rem;
+}
